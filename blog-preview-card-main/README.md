@@ -41,5 +41,4 @@ I am focusing my efforts on becoming better at HTML and Css usage, once I feel c
 ## Author
 
 - Linkdin - [Ekaitz Martin](https://www.linkedin.com/in/ekaitz-martin-23367727a/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
 - Youtube - [@EkaitzMartin29](https://www.youtube.com/@EkaitzMartin29)
