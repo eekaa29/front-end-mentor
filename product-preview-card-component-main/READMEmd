@@ -13,20 +13,20 @@
 
 ### Links
 
-- Solution URL: [Add solution URL here](http://127.0.0.1:5500/qr-code-component-main/index.html)
+- Solution URL: [Add solution URL here](http://127.0.0.1:5500/product-preview-card-component-main/index.html)
 
 ### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
+- li elements ::marker properties
+- transition and transform properties
 - Mobile-first workflow
 
 ### What I learned
 
-Thanks to this project, I am becoming more and more comfortable with the layout of HTML elements. Moreover, it has been a good way to practice some CSS styles, such as transition or box-shadow
-
+As this projects layout have been more difficult to get done than previous ones, I have practise how to get a more complex layout, with more content and elements to be aware of. In gerenal It has been a challenge, which has been so useful for me to improve. Moreover I have practice other interesting things such as transitions, lists...
 
 ### Continued development
 

@@ -1,0 +1,162 @@
+:root {
+    /*Primary*/
+    --green500: hsl(158, 36%, 37%);
+    --Green700: hsl(158, 42%, 18%);
+    /*Neutral*/
+    --Black: hsl(212, 21%, 14%);
+    --Grey: hsl(228, 12%, 48%);
+    --Cream: hsl(30, 38%, 92%);
+    --White: hsl(0, 0%, 100%);
+}
+* {
+    box-sizing: border-box;
+}
+
+p {
+    font-size: 14px;
+}
+
+body {
+    background-color: var(--Cream);
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    gap: 2rem;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.card {
+    background-color: var(--White);
+    border-radius: 1rem;
+    overflow: hidden;
+
+    display: flex;
+    gap: 1rem;
+    width: 50%;
+}
+
+.product-img {
+    width: 50%;
+    height: auto;
+    border-radius: 1rem 0 0 1rem;
+}
+
+.product-img img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+}
+
+.product-info {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 1rem 2rem 1rem 1rem;
+    width: 100%;
+    height: auto;
+}
+
+.product-info h4 {
+    font-family: Montserrat;
+    font-weight: 500;
+    letter-spacing: 0.23rem;
+    color: var(--Grey);
+
+}
+
+.product-info h1 {
+    font-family: Fraunces;
+    font-weight: 700;
+    font-size: 2rem;
+
+}
+
+.product-info p {
+    font-family: Montserrat;
+    font-weight: 500;
+    line-height: 1.6rem;
+    color: var(--Grey);
+}
+
+.price {
+    display: flex;
+    flex-direction: row;
+    gap: 0.75rem;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.discount {
+    font-size: clamp(1.5rem, 5vw, 2rem);
+    color: var(--green500);
+}
+
+.real-price {
+    text-decoration: line-through;
+    font-size: clamp(.9rem, 3vw, 1rem);
+}
+
+.cart {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    text-align: center;
+    gap: 1rem;
+    justify-content: center;
+    background-color: var(--green500);
+    color: var(--White);
+    border-radius: 0.5rem;
+    width: 100%;
+    height: 3rem;
+    font-family: Montserrat;
+    font-weight: 700;
+    border: 1px solid var(--green500);
+    padding-block: 0.9rem;
+    cursor: pointer;
+    transition: background-color .25s ease;
+}
+
+.cart:hover { 
+    background: var(--Green700); 
+}
+
+.icon {
+    width: 1.25rem;
+    height: 1.25rem;
+}
+
+
+.attribution {
+    font-size: 16px; 
+    text-align: center;
+    font-family: Montserrat; 
+    align-items: center;
+}
+    
+.attribution a {
+    text-decoration: none; 
+    transition: transform 0.5 ease;
+    display: inline-block;
+}
+.attribution a:hover {
+    transform: translate(4px, -4px);
+}
+
+/* @media (min-width: 640px) {
+  .card {
+     flex-direction: row; max-width: 38rem; 
+    }
+
+} */

@@ -9,7 +9,7 @@
 
 ## 🖼 Preview
 
-![Preview del proyecto](assets/images/preview.png)
+![Project preview](assets/images/preview.png)
 
 ### Links
 

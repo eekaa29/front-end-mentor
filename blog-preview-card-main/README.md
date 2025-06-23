@@ -13,7 +13,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ## 🖼 Preview
 
-![Preview del proyecto](assets/images/screenshoot.png)
+![Project preview](assets/images/screenshoot.png)
 
 ### Links
 
