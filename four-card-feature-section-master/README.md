@@ -9,7 +9,10 @@
 
 ## 🖼 Preview
 
+### 🖥 Desktop 
 ![Project preview-desktop](images/2025-06-25%20(1).png)
+
+### 📲 Mobile
 ![Project preview-mobile](images/2025-06-25.png)
 
 ### Links
