@@ -10,28 +10,28 @@
 ## 🖼 Preview
 
 ### 🖥 Desktop 
-![Project preview-desktop](images/preview-desktop.png)
+![Project preview-desktop](images/desktop-preview.png)
 
 ### 📲 Mobile
-![Project preview-mobile](images/preview-mobile.png)
+![Project preview-mobile](images/mobile-preview.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](http://127.0.0.1:5500/testimonials-grid-section-main/index.html)
+- Solution URL: [Add solution URL here](http://127.0.0.1:5500/fylo-data-storage-component-master/index.html)
 
 ### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox & Grid
-- Margins / Max-width / Min-width
-- transition and transform properties
+- Relative and Absolute positions
+- z-index
 - Mobile-first workflow
 - Media queries
 
 ### What I learned
 
-This project has been useful to understand more deeply flex-row and flex-column properties. From my point of view the real challenge has been the desktop layout.  
+This project has been useful to know how make a background with both an image and a color. Moreover, I have practiced key things like z-index, absolute and relative positioning...
 
 ### Continued development
 
